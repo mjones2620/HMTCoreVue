@@ -1,0 +1,180 @@
+<template>
+    <section id="ourStaff" class="parallax">
+        <div class="parallax-overlay">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div class="section-content text-center">
+                            <h2>Meet our Staff</h2>
+                            <hr class="botm-line" />
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="card hovercard">
+                            <div class="cardheader">
+                            </div>
+                            <div class="avatar">
+                                <img alt="" src="../../images/aly.jpg">
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <a target="_blank" href="">Alycia Burant LPC</a>
+                                </div>
+                                <div class="desc">Licensed Professional Counselor</div>
+                            </div>
+                            <div class="bottom">
+                                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#alycia">View Profile</button>
+                            </div>
+                        </div>
+                        <!-- Modal -->
+                        <div id="alycia" class="modal fade modal-wide" role="dialog">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <div class="col-xs-12">
+                                            <div class="avater" style="background-image: url('../../images/aly.jpg');background-size:cover;"></div>
+                                            <div class="info">
+                                                <h1>Alycia Burant, LPC</h1>
+                                                <h4>Licensed Professional Counselor</h4>
+                                            </div>
+                                            <div id="aboutMe">
+                                                <div class="text-center">
+                                                    <hr class="botm-line" />
+                                                </div>
+                                                <h4>About Alycia</h4>
+                                                <p>
+                                                    Welcome! It takes a great amount of courage to make the first step to living your best life. Positive healthy mind, positive
+                                                    healthy body. What’s your mantra? I know how it feels to be so anxious
+                                                    and unmotivated you feel life will never improve. I am not only a Licensed
+                                                    Professional Counselor with over seven years experience providing direct
+                                                    patient care to adults, adolescents, children, and families, but I am
+                                                    your average every day girl who has dealt with her own array of challenges.
+                                                    By changing my thoughts and developing positive, healthy coping skills,
+                                                    I created a positive healthy mind, body and soul. I provide a safe, supportive,
+                                                    encouraging environment by creating a solid foundation for personal healing
+                                                    and development. I work to create a relationship with you to promote
+                                                    success and empowerment. I recognize you are the expert on your life
+                                                    and take a collaborative approach to achieve identified goals. I use
+                                                    a strength-based approach, building on your positive qualities. I recognize
+                                                    everyone measures success differently and tailor treatment to best meet
+                                                    your needs. Are you struggling with every day anxieties that are starting
+                                                    to impact your relationships, job, or home life? Do you feel so depressed
+                                                    you have lost motivation to do things you used to enjoy? Do you have
+                                                    a teenager who seems distant but has hinted they would like someone to
+                                                    talk to? If you can relate to any of this, then you’ve come to the right
+                                                    place. Healthy Minds Therapy will help you become the person you want
+                                                    to be!
+                                                    <p>
+                                                        <p>
+                                                            I received my Bachelor of Science in Psychology from Virginia Tech in 2006. I earned my Master of Arts in Community Counseling
+                                                            from American Psychological Association (APA) accredited Argosy
+                                                            University School of Professional Psychology Northern Virginia
+                                                            in 2009. I completed my Post Master’s Certification in School
+                                                            Counseling at University of South Florida in 2014. During my
+                                                            journey as a therapist thus far, I have had the pleasure of working
+                                                            with clients in a variety of settings to include in-home, psychiatric
+                                                            hospitals, mental health clinics, and outpatient/private practice
+                                                            settings.
+                                                        </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3">
+                        <div class="card hovercard">
+                            <div class="cardheader">
+                            </div>
+                            <div class="avatar">
+                                <img alt="" src="../../images/yelena.jpg">
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <a target="_blank" href="">Yelena Boex, LCSW</a>
+                                </div>
+                                <div class="desc">Licensed Clinical Social Worker</div>
+                            </div>
+                            <div class="bottom">
+                                <button type="button" class="btn btn-default" data-toggle="modal" data-target="#yelana">View Profile</button>
+                            </div>
+                        </div>
+                        <!-- Modal -->
+                        <div id="yelana" class="modal fade modal-wide" role="dialog">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <div class="col-xs-12">
+                                            <div class="avater" style="background-image: url('../../images/yelena.jpg');background-size:cover;"></div>
+                                            <div class="info">
+                                                <h1>Yelena Boex, LCSW</h1>
+                                                <h4>Licensed Clinical Social Worker</h4>
+                                            </div>
+                                            <div id="aboutMe">
+                                                <div class="text-center">
+                                                    <hr class="botm-line" />
+                                                </div>
+                                                <h4>About Yelena</h4>
+                                                <p>
+                                                    Yelena Kilgore, Licensed Clinical Social Worker (LCSW) is a psychotherapist specializing in providing evidenced-based treatment
+                                                    to clients of all ages, facing a variety of challenges and issues ranging
+                                                    from depression, anxiety, low self-esteem/poor self-image, relationship
+                                                    difficulties, to life transitions of all types. She has spent a considerable
+                                                    portion of her career working in an acute psychiatric hospital helping
+                                                    clients overcome mood disorders such as bipolar, suicidal ideation, depression,
+                                                    and anxiety. During her time at the hospital, she has had the privilege
+                                                    of witnessing dramatic transformations of people overcoming painful emotional
+                                                    distress and difficult life circumstances.
+                                                    <p>
+                                                        <p>
+                                                            In her private clinical practice, she blends cognitive behavioral therapy (CBT) and other evidence-based practices with an
+                                                            interpersonal process. She believes that the key to effective
+                                                            treatment begins with the quality of the relationship and connection
+                                                            between a therapist and client, as well as an inherent interest
+                                                            in understanding what drives our thoughts, emotions, and behaviors.
+                                                            Ms. Kilgore uses her natural ability to empathize and offer unconditional
+                                                            positive regard with an interactive and warm therapeutic style
+                                                            to help guide her clients towards building self-awareness, and
+                                                            ultimately, in realizing their own worth and abilities. She communicates
+                                                            in an authentic and lively manner, and utilizes humor when appropriate.
+                                                            She works alongside her clients to help them navigate life stressors
+                                                            and challenges while making you feel comfortable and understood.
+                                                            She challenges her clients appropriately by offering a different
+                                                            perspective and new way of thinking. She is a guiding light.
+                                                        </p>
+                                                        <p>
+                                                            Ms. Kilgore completed her master’s degree in Social Work at the University of Maryland and her undergraduate degree at the
+                                                            University of Georgia. Her clinical internships included community
+                                                            mental health and extensive psychotherapy training at Catholic
+                                                            University Counseling Center. Yelena was born in Uzbekistan and
+                                                            is fluent in Russian.
+                                                        </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</template>
+
+<script>
+    export default {
+        name: 'staff'
+    }
+</script>
