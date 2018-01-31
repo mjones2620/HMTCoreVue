@@ -23,7 +23,7 @@ namespace HMTCoreVue.Controllers
         [HttpGet]
         public IActionResult GetFiles()
         {
-            var files = _fileProvider.GetDirectoryContents("ClientApp/docs");
+            var files = _fileProvider.GetDirectoryContents("wwwroot/docs");
             return Ok(files.ToList());
         }
     }

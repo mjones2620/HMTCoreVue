@@ -36,7 +36,6 @@
     "jquery-easing": "0.0.1",
     "vee-validate": "^2.0.3",
     "vue-carousel": "^0.6.5",
-    "vue-gallery": "^1.2.5",
     "vue-masked-input": "^0.5.2",
     "vue-router": "^3.0.1"
   }

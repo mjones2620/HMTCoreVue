@@ -20,21 +20,21 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <a target="_blank" href="">Alycia Burant LPC</a>
+                                    <a target="_blank" href="">Alycia Burant, LPC</a>
                                 </div>
                                 <div class="desc">Licensed Professional Counselor</div>
+                                <div class="desc">Business Owner and Operator</div>
                             </div>
                             <div class="bottom">
                                 <button type="button" class="btn btn-default" data-toggle="modal" data-target="#alycia">View Profile</button>
                             </div>
                         </div>
                         <!-- Modal -->
-                        <div id="alycia" class="modal fade modal-wide" role="dialog">
+                        <div id="alycia" class="modal fade" role="dialog">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <div class="col-xs-12">
-                                            <div class="avater" style="background-image: url('../../images/aly.jpg');background-size:cover;"></div>
+                                        <div class="col-md-12">
                                             <div class="info">
                                                 <h1>Alycia Burant, LPC</h1>
                                                 <h4>Licensed Professional Counselor</h4>
@@ -101,18 +101,18 @@
                                     <a target="_blank" href="">Yelena Boex, LCSW</a>
                                 </div>
                                 <div class="desc">Licensed Clinical Social Worker</div>
+                                <br>
                             </div>
                             <div class="bottom">
                                 <button type="button" class="btn btn-default" data-toggle="modal" data-target="#yelana">View Profile</button>
                             </div>
                         </div>
                         <!-- Modal -->
-                        <div id="yelana" class="modal fade modal-wide" role="dialog">
+                        <div id="yelana" class="modal fade"  role="dialog">
                             <div class="modal-dialog">
                                 <div class="modal-content">
                                     <div class="modal-body">
                                         <div class="col-xs-12">
-                                            <div class="avater" style="background-image: url('../../images/yelena.jpg');background-size:cover;"></div>
                                             <div class="info">
                                                 <h1>Yelena Boex, LCSW</h1>
                                                 <h4>Licensed Clinical Social Worker</h4>

@@ -1112,11 +1112,6 @@
       "integrity": "sha1-eRQg1/VR7qKJdFOop3ZT+WYG1nw=",
       "dev": true
     },
-    "blueimp-gallery": {
-      "version": "2.30.0",
-      "resolved": "https://registry.npmjs.org/blueimp-gallery/-/blueimp-gallery-2.30.0.tgz",
-      "integrity": "sha512-dIv38QiFHhpaBqr7ecOBpsy2PgeNcHU9Kjy+P7rE1EcSFAaWpeoMbFCUe3VKgSDSaZaIO/dlfmpc0E0/VAvHPg=="
-    },
     "bn.js": {
       "version": "4.11.7",
       "resolved": "https://registry.npmjs.org/bn.js/-/bn.js-4.11.7.tgz",
@@ -5419,14 +5414,6 @@
       "resolved": "https://registry.npmjs.org/vue-class-component/-/vue-class-component-5.0.1.tgz",
       "integrity": "sha1-/toGw9ombO6QZOIkukkeCJkj3Og=",
       "dev": true
-    },
-    "vue-gallery": {
-      "version": "1.2.5",
-      "resolved": "https://registry.npmjs.org/vue-gallery/-/vue-gallery-1.2.5.tgz",
-      "integrity": "sha1-zf/6FNkpfrvzdXo+Bk2sXmu8qqg=",
-      "requires": {
-        "blueimp-gallery": "2.30.0"
-      }
     },
     "vue-hot-reload-api": {
       "version": "2.1.0",

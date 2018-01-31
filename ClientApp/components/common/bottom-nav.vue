@@ -4,7 +4,7 @@
         <div class="btn-toolbar" role="toolbar">
             <div class="btn-group" role="group">
                 <div class="col-md-12">
-                    <a href="#about" style="opacity: .60; color: white;" class="page-scroll"><i class="fa fa-5x fa-chevron-circle-down"></i></a>
+                    <a href="#ourStaff" style="opacity: .60; color: white;" class="page-scroll"><i class="fa fa-5x fa-chevron-circle-down"></i></a>
                 </div>
             </div>
         </div>
