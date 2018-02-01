@@ -13,7 +13,9 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <h4>Alexandria, VA</h4>
-                    </div>                    <div class="col-sm-3" v-for="(profile, index) in profiles" v-if="profile.location === 1" :key="profile.name">
+                        <hr class="botm-line" />
+                    </div>
+                    <div class="col-sm-3" v-for="(profile, index) in filteredProfiles" v-if="profile.location === 1" :key="profile.name">
                         <div class="card hovercard">
                             <div class="cardheader">
                             </div>
@@ -61,9 +63,11 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <h4>Woodbridge, VA</h4>
-                    </div>                    <div class="col-sm-3" v-for="(profile, index) in profiles" v-if="profile.location === 2" :key="profile.name">
+                        <hr class="botm-line" />
+                    </div>
+                    <div class="col-sm-3" v-for="(profile, index) in filteredProfiles" v-if="profile.location === 2" :key="profile.name">
                         <div class="card hovercard">
-                            <div class="cardheader">
+                            <div class="cardheader-woodbridge">
                             </div>
                             <div class="avatar">
                                 <img alt="" :src="profile.imagePath">
@@ -109,10 +113,11 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <h4>Fredericksberg, VA</h4>
+                        <hr class="botm-line" />
                     </div>
-                    <div class="col-sm-3" v-for="(profile, index) in profiles" v-if="profile.location === 3" :key="profile.name">
+                    <div class="col-sm-3" v-for="(profile, index) in filteredProfiles" v-if="profile.location === 3" :key="profile.name">
                         <div class="card hovercard">
-                            <div class="cardheader">
+                            <div class="cardheader-fredericksberg">
                             </div>
                             <div class="avatar">
                                 <img alt="" :src="profile.imagePath">
@@ -163,12 +168,22 @@
 <script>
     export default {
         name: 'staff',
-        data(){
+        data() {
             return {
                 profiles: []
             }
         },
-        created(){
+        computed: {
+            filteredProfiles(){
+                if(this.profiles){
+                    this.profiles.forEach(profile => {
+                        profile.imagePath = `images/${profile.imagePath}`;
+                    });
+                    return this.profiles;
+                }
+            }
+        },
+        created() {
             this.$http.get("StaffProfiles")
                 .then(response => {
                     this.profiles = response.data;

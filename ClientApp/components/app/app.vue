@@ -11,10 +11,10 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a href="#page-top" class="navbar-brand page-scroll">
-                        <img src="../../images/HMT-Logo.png" />
+                        <img src="../../../wwwroot/images/HMT-Logo.png" />
                     </a>
                     <a href="#page-top" class="navbar-brand page-scroll">
-                        <img src="../../images/justwords.png" />
+                        <img src="../../../wwwroot/images/justwords.png" />
                     </a>
                 </div>
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
@@ -47,7 +47,7 @@
                                 </li>
                                 <li role="separator" class="divider"></li>
                                 <li>
-                                     <a href="https://www.therapyportal.com/p/mindfulhealth3/" target="_blank">Fredericksberg | Woodbridge, VA</a>
+                                     <a href="https://www.therapyportal.com/p/healthyminds/" target="_blank">Fredericksberg | Woodbridge, VA</a>
                                 </li>
                             </ul>
                         </li>

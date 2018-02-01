@@ -29,7 +29,7 @@
                             <div class="col-xs-12">
                                 <ul class="list-group">
                                     <li v-for="file in files" v-bind:key="file.name" class="list-group-item">
-                                        <i class="fa fa-file-pdf-o"></i> <a :href="'../../../wwwroot/docs/'+ file.name" download>{{file.name}}</a>
+                                        <i class="fa fa-file-pdf-o"></i> <a :href="'docs/'+ file.name" download>{{file.name}}</a>
                                     </li>
                                 </ul>
                             </div>

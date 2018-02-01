@@ -1387,6 +1387,18 @@ section #contact {
     height: 100px;
 }
 
+.card.hovercard .cardheader-woodbridge {
+    background-size: cover;
+    background-color: #006598;
+    height: 100px;
+}
+
+.card.hovercard .cardheader-fredericksberg {
+    background-size: cover;
+    background-color: #d9534f;
+    height: 100px;
+}
+
 .modal-body {
     padding: 20px !important;
 }

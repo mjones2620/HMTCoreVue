@@ -6,7 +6,7 @@
             <br />
             <div class="clearfix"></div>
             <br />
-            <img src="../../images/HMT-Logo-outline.png" style="padding: 20px;" class="img-responsive center-block" />
+            <img src="../../../wwwroot/images/HMT-Logo-outline.png" style="padding: 20px;" class="img-responsive center-block" />
             <div class="clearfix"></div>
             <br />
         </div>
