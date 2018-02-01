@@ -10,6 +10,7 @@ axios.defaults.baseURL = $("base").first().attr("href") + 'api/';
 Vue.prototype.$http = axios;
 Vue.use(vueRouter);
 Vue.use(VeeValidate);
+Vue.config.devtools = true;
 
 new Vue({
     el: '#app-root',

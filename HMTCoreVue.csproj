@@ -27,6 +27,7 @@
     <None Remove="ClientApp\components\home\home.vue.html" />
     <None Remove="ClientApp\components\navmenu\navmenu.css" />
     <None Remove="ClientApp\components\navmenu\navmenu.vue.html" />
+    <None Remove="EmptyCSSFile.css" />
   </ItemGroup>
   <Target Name="DebugRunWebpack" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('wwwroot\dist') ">
     <!-- Ensure Node.js is installed -->
