@@ -35,10 +35,10 @@
                             <a id="formsLink" class="page-scroll" href="#forms">Forms</a>
                         </li>
                         <li>
-                            <a id="contactLink" class="page-scroll" href="#location">Location</a>
+                            <a id="resourcesLink" class="page-scroll" href="#resources">Resources</a>
                         </li>
                         <li>
-                            <a id="resourcesLink" class="page-scroll" href="#resources">Resources</a>
+                            <a id="contactLink" class="page-scroll" href="#location">Location</a>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Client Portal
