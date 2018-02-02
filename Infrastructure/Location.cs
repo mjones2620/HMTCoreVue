@@ -1,11 +1,14 @@
-using System.ComponentModel;
+﻿using System.ComponentModel;
 
 namespace HMTCoreVue.Infrastructure
 {
     public enum Location {
         Unknown = 0,
+        [Description("Alexandria, VA")]
         Alexandria = 1,
+        [Description("Woodbridge, VA")]
         Woodbridge = 2,
-        Fredericksberg = 3
+        [Description("Fredericksburg, VA")]
+        Fredericksburg = 3
     }
 }

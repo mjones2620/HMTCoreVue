@@ -16,7 +16,7 @@
                                     <div class="clearfix"></div>
                                     <br />
                                     <div class="form-group">
-                                        <label for="exampleInputUsername">Your name</label>
+                                        <label for="exampleInputUsername">Your Name</label>
                                         <input v-validate="{ rules: { required: true } }"
                                                type="text"
                                                class="form-control"

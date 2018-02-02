@@ -11,7 +11,7 @@
                         </div>
                         <h4>New Clients</h4>
                         <p>
-                            I have conveniently provided the intake paperwork online for you
+                            We have conveniently provided the intake paperwork online for you
 
                             to download, print and fill out before meeting for our first session.
 

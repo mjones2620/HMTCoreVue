@@ -24,6 +24,7 @@
                                             <em>Payment Plan options are available in limited situations.</em>
                                             <div class="clearfix"></div>
                                             <br />
+                                            <h4>Alexandria, VA</h4>
                                             <table class="table table-responsive table-condensed">
                                                 <thead>
                                                     <tr>
@@ -54,6 +55,37 @@
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            <h4>Fredericksburg | Woodbridge, VA</h4>
+                                            <table class="table table-responsive table-condensed">
+                                                <thead>
+                                                    <tr>
+                                                        <th class="col-md-8">
+                                                            Service
+                                                        </th>
+                                                        <th class="col-md-4">
+                                                            Cost
+                                                        </th>
+                                                    </tr>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>
+                                                            <i class="fa fa-check"></i> Initial Consultation
+                                                        </td>
+                                                        <td>
+                                                            $125
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <i class="fa fa-clipboard"></i> Subsequent psychotherapy sessions (45-60 minute)
+                                                        </td>
+                                                        <td>
+                                                            $90-$100
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
                                         </div>
                                     </div>
                                 </div>
@@ -73,26 +105,27 @@
                                                     without the constraints of insurance telling you who you can see, particularly
                                                     in teens and young adults. </li>
                                                 <li class="list-group-item">
-                                                    <strong>Shorter waiting times.</strong> Immediate availability for intake sessions!</li>
+                                                    <strong>Shorter Waiting Times.</strong> Immediate availability for intake sessions.</li>
                                                 <li class="list-group-item">
-                                                    <strong>Privacy!</strong> Using insurance means a third party has knowledge of
+                                                    <strong>Privacy.</strong> Using insurance means a third party has knowledge of
                                                     your time in therapy. Privacy laws protect you to a certain extent, but
-                                                    your privacy is not guaranteed 100%. When choosing self-pay, your therapy
-                                                    services are discreet without fear of being denied by your insurer for
-                                                    future care. For example, creating a “pre-existing condition.”</li>
+                                                    your privacy is not 100% guaranteed. When choosing self-pay, your therapy
+                                                    services are discrete without the fear of being denied by your insurer
+                                                    for future care. For example, creating a “pre-existing condition.”</li>
                                                 <li class="list-group-item">
-                                                    <strong>Flexibility!</strong> Together as team, we will decide the best course
-                                                    of treatment for you instead of the parameters set forth by the insurance
-                                                    company. For example, length of sessions, duration of therapy, etc.</li>
+                                                    <strong>Flexibility.</strong> Together as a team, we will decide the best course
+                                                    of treatment for you instead of being confined to the parameters set
+                                                    forth by the insurance company. For example - length of sessions, duration
+                                                    of therapy, etc.</li>
                                                 <li class="list-group-item">
-                                                    <strong>Weekend session availability!</strong> For private pay clients only,
+                                                    <strong>Weekend Session Availability.</strong> For private pay clients only,
                                                     sessions on Saturdays will be offered for your convenience.</li>
                                                 <li class="list-group-item">
-                                                    <strong>Unique service opportunities!</strong> Self-pay clients have the option
-                                                    of video/online sessions! This allows us to engage in therapy from the
-                                                    comfort of your own home (or wherever you may be!). This also allows
-                                                    for another level of privacy (no need to worry about who may see you
-                                                    coming out of the waiting room or office!).</li>
+                                                    <strong>Unique Service Opportunities.</strong> Self-pay clients have the option
+                                                    of video/online sessions. This allows us to engage in therapy from the
+                                                    comfort of your own home (or wherever you may be) while also providing
+                                                    peace of mind that you will not run into anyone you know coming out of
+                                                    the waiting room or office).</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -108,14 +141,16 @@
                                     <div id="insurancepoliciy" class="panel-collapse collapse">
                                         <div class="panel-body">
                                             <p>
-                                                Currently we are able to accept self-pay patients, Blue Cross & Blue Shield, Cigna and United Health Care.
+                                                We are considered in-network for and accept variety insurances. In-network benefits vary by therapist. Please contact your
+                                                insurance provider to determine whether or not your therapist is an in network
+                                                provider for your carrier. We will also let you know which providers accept
+                                                your insurance.
                                             </p>
                                             <p>
                                                 All remaining insurance companies are considered “out-of-network”. If your insurance company offers out-of-network benefits,
                                                 you may receive reimbursement for the cost of sessions. Most insurance companies
                                                 that provide out-of-network benefits cover between 50%-80% of the cost per
-                                                session. Monthly statements for clients will be provided for submission to
-                                                your insurance company so you may be reimbursed directly.
+                                                session. We are happy to submit claims out of network for your convenience.
                                             </p>
                                             <h4>Insurance Benefits</h4>
                                             <p>
@@ -132,10 +167,10 @@
                                                         Do I have behavioral health/mental health insurance benefits/coverage?
                                                     </li>
                                                     <li class="list-group-item">
-                                                        Is my plan in-network or out-of-network with Alycia Burant, Licensed Professional Counselor (Healthy Minds Therapy, PLLC)?
+                                                        Is my plan in-network or out-of-network with Healthy Minds Therapy PLLC?
                                                     </li>
                                                     <li class="list-group-item">
-                                                        If I am in-network, what is my copay or co-insurance for an in office outpatient mental health visit?
+                                                        If I am in-network, what is my co-pay or co-insurance for an in-office outpatient mental health visit?
                                                     </li>
                                                     <li class="list-group-item">
                                                         If I am out-of-network, do I have out-of-network benefits and at what rate am I reimbursed?
@@ -151,12 +186,12 @@
                                                         Is there an annual or lifetime limit on what my insurance will pay?
                                                     </li>
                                                     <li class="list-group-item">
-                                                        Is approval, referral or preauthorization required?
+                                                        Is approval, referral or pre-authorization required?
                                                     </li>
                                                 </ul>
                                                 <br />
-                                                <em>Please contact me for assistance with determining insurance eligibility.
-                                                    </em>
+                                                <em>Please contact us for assistance with determining insurance eligibility.
+                                                </em>
                                             </p>
                                         </div>
                                     </div>
@@ -175,28 +210,28 @@
                                                 Session spots are limited each week in efforts of devoting the appropriate amount of time and attention that is required
                                                 to provide excellent service and outcomes. Therapy is most successful when
                                                 sessions are regular and consistent. If you need to cancel an appointment,
-                                                please contact me as soon as possible so we may reschedule. It is extremely
+                                                please contact us as soon as possible so we may reschedule. It is extremely
                                                 difficult to schedule another client on short notice, which is why a full
-                                                out-of-pocket fee for a missed appointment or an appointment cancelled in
-                                                less than 24 hours will be assessed. If you know you will not be able to
-                                                make your appointment the following week during your session, please let
-                                                me know and I am happy to reschedule for you.
+                                                out-of-pocket fee (varies depending on location) for a missed appointment
+                                                or an appointment cancelled in less than 24 hours will be assessed. If you
+                                                know you will not be able to make your appointment the following week during
+                                                your session, please let us know and we are happy to reschedule for you.
                                             </p>
-                                            <h4>Crisis and Urgent Situations</h4>
                                             <p>
-                                                I will respond to messages and phone calls as soon as possible. However, I do not provide urgent, crisis or emergency services.
+                                                We will respond to messages and phone calls as soon as possible. However, we do not provide urgent, crisis or emergency services.
                                                 If you are experiencing a life threatening emergency and require immediate
                                                 assistance, please call 911, or go directly to your nearest emergency room.
-                                            </p>
-                                            <p>
-                                                If you are feeling overwhelmed, but do not require hospitalization, you may call one of the following mental health hotlines
-                                                numbers: 703.746.3401 (Alexandria City), 703-573-5679 (Fairfax County), 703-228-5160
-                                                (Arlington County), and 202-673-9300 (Washington, DC)
-                                            </p>
-                                            <p>
-                                                For less urgent matters or for scheduling issues, please leave a message on my voicemail or by email. Email is not a secure,
-                                                confidential form of communication and should not be used for discussion
-                                                of clinical issues or for urgent communications.
+                                                If you are feeling overwhelmed, but do not require hospitalization, you may
+                                                call one of the following mental health hotlines numbers: 703.746.3401 (Alexandria
+                                                City), 703-573-5679 (Fairfax County), 703-228-5160 (Arlington County), and
+                                                202-673-9300 (Washington, DC) After Hours Crisis Hotline 540-373-6876 and
+                                                National Suicide Prevention Lifeline 1-800-273-8255. For less urgent matters
+                                                or for scheduling issues, please leave a message on our voicemail or by
+                                                <a
+                                                    href="mailto:info@mindfulhealthva.com">
+                                                    E-mail
+                                                    </a>. Email is not a secure, confidential form of communication and should
+                                                    not be used for discussion of clinical issues or for urgent communications.
                                             </p>
                                         </div>
                                     </div>
@@ -212,7 +247,7 @@
 </template>
 
 <script>
-export default {
-  name: "policy"
-};
+    export default {
+        name: "policy"
+    };
 </script>

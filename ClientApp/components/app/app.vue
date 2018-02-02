@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <div>
         <div id="nav-anchor"></div>
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -37,6 +37,9 @@
                         <li>
                             <a id="contactLink" class="page-scroll" href="#location">Location</a>
                         </li>
+                        <li>
+                            <a id="resourcesLink" class="page-scroll" href="#resources">Resources</a>
+                        </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Client Portal
                                 <span class="caret"></span>
@@ -47,7 +50,7 @@
                                 </li>
                                 <li role="separator" class="divider"></li>
                                 <li>
-                                     <a href="https://www.therapyportal.com/p/healthyminds/" target="_blank">Fredericksberg | Woodbridge, VA</a>
+                                     <a href="https://www.therapyportal.com/p/healthyminds/" target="_blank">Fredericksburg | Woodbridge, VA</a>
                                 </li>
                             </ul>
                         </li>
@@ -66,7 +69,8 @@
                 <appointments style="background-color: #f5f5f5!important"></appointments>
                 <policy></policy>
                 <documents style="background-color: #f5f5f5!important"></documents>
-                <location></location>
+                <resources></resources>
+                <location style="background-color: #f5f5f5!important"></location>
             </div>
         </div>
         <footer-component></footer-component>
@@ -87,6 +91,7 @@
     import documents from "./documents.vue";
     import policy from "./policy.vue";
     import services from "./services.vue";
+    import resources from "./resources.vue";
     import footerComponent from './footer.vue';
 
     export default {
@@ -99,6 +104,7 @@
             documents,
             policy,
             services,
+            resources,
             footerComponent
         }
     };
