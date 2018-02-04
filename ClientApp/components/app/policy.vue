@@ -18,8 +18,10 @@
                                     </div>
                                     <div id="fees" class="panel-collapse collapse in">
                                         <div class="panel-body">
-                                            <span>Payment due at time of service. Fees based on service provided, length of session
-                                                and insurance coverage.</span>
+                                            <span>
+                                                Payment due at time of service. Fees based on service provided, length of session
+                                                and insurance coverage.
+                                            </span>
                                             <br />
                                             <em>Payment Plan options are available in limited situations.</em>
                                             <div class="clearfix"></div>
@@ -101,31 +103,32 @@
                                         <div class="panel-body">
                                             <ul class="list-group">
                                                 <li class="list-group-item">
-                                                    <strong>Access</strong> to a therapist who specializes in suicidality and self-harm
-                                                    without the constraints of insurance telling you who you can see, particularly
-                                                    in teens and young adults. </li>
-                                                <li class="list-group-item">
-                                                    <strong>Shorter Waiting Times.</strong> Immediate availability for intake sessions.</li>
+                                                    <strong>Shorter Waiting Times.</strong> Immediate availability for intake sessions.
+                                                </li>
                                                 <li class="list-group-item">
                                                     <strong>Privacy.</strong> Using insurance means a third party has knowledge of
                                                     your time in therapy. Privacy laws protect you to a certain extent, but
                                                     your privacy is not 100% guaranteed. When choosing self-pay, your therapy
                                                     services are discrete without the fear of being denied by your insurer
-                                                    for future care. For example, creating a “pre-existing condition.”</li>
+                                                    for future care. For example, creating a “pre-existing condition.”
+                                                </li>
                                                 <li class="list-group-item">
                                                     <strong>Flexibility.</strong> Together as a team, we will decide the best course
                                                     of treatment for you instead of being confined to the parameters set
                                                     forth by the insurance company. For example - length of sessions, duration
-                                                    of therapy, etc.</li>
+                                                    of therapy, etc.
+                                                </li>
                                                 <li class="list-group-item">
                                                     <strong>Weekend Session Availability.</strong> For private pay clients only,
-                                                    sessions on Saturdays will be offered for your convenience.</li>
+                                                    sessions on Saturdays will be offered for your convenience.
+                                                </li>
                                                 <li class="list-group-item">
                                                     <strong>Unique Service Opportunities.</strong> Self-pay clients have the option
                                                     of video/online sessions. This allows us to engage in therapy from the
                                                     comfort of your own home (or wherever you may be) while also providing
                                                     peace of mind that you will not run into anyone you know coming out of
-                                                    the waiting room or office).</li>
+                                                    the waiting room or office).
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -190,7 +193,8 @@
                                                     </li>
                                                 </ul>
                                                 <br />
-                                                <em>Please contact us for assistance with determining insurance eligibility.
+                                                <em>
+                                                    Please contact us for assistance with determining insurance eligibility.
                                                 </em>
                                             </p>
                                         </div>
@@ -227,17 +231,15 @@
                                                 202-673-9300 (Washington, DC) After Hours Crisis Hotline 540-373-6876 and
                                                 National Suicide Prevention Lifeline 1-800-273-8255. For less urgent matters
                                                 or for scheduling issues, please leave a message on our voicemail or by
-                                                <a
-                                                    href="mailto:info@healthyminds-therapy.com">
+                                                <a href="mailto:info@healthyminds-therapy.com">
                                                     E-mail
-                                                    </a>. Email is not a secure, confidential form of communication and should
-                                                    not be used for discussion of clinical issues or for urgent communications.
+                                                </a>. Email is not a secure, confidential form of communication and should
+                                                not be used for discussion of clinical issues or for urgent communications.
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -245,7 +247,6 @@
         </div>
     </section>
 </template>
-
 <script>
     export default {
         name: "policy"
