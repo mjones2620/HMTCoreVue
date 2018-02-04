@@ -1387,13 +1387,25 @@ section #contact {
     height: 100px;
 }
 
-.card.hovercard .cardheader-woodbridge {
+.card.hovercard .cardheader-darkblue {
+    background-size: cover;
+    background-color: #375a7f;
+    height: 100px;
+}
+
+.card.hovercard .cardheader-blue {
     background-size: cover;
     background-color: #006598;
     height: 100px;
 }
 
-.card.hovercard .cardheader-Fredericksburg {
+.card.hovercard .cardheader-yellow {
+    background-size: cover;
+    background-color: #f0ad4e;
+    height: 100px;
+}
+
+.card.hovercard .cardheader-red {
     background-size: cover;
     background-color: #d9534f;
     height: 100px;

@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <footer class="footer-bs">
         <div class="container">
             <div class="row">
@@ -19,7 +19,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info@mindfulhealthva.com">
+                            <a href="mailto:info@healthyminds-therapy.com">
                                 <i class="fa fa-envelope"></i> E-mail
                             </a>
                         </li>

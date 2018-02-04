@@ -78,7 +78,7 @@
                     this.profiles.forEach(profile => {
                         profile.imagePath = `images/${profile.imagePath}`;
                     });
-                    return _.sortBy(this.profiles, ['specialJobDesignation', 'title']);
+                    return _.sortBy(this.profiles, ['specialJobDesignation','title']);
                 }
             }
         },
@@ -87,6 +87,6 @@
                 .then(response => {
                     this.profiles = response.data;
                 });
-        }
+        },
     }
 </script>

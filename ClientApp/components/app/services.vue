@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <section id="services" class="parallax">
         <div class="parallax-overlay">
             <div class="container">
@@ -6,7 +6,7 @@
                     <div class="col-md-12">
                         <div id="aboutMe">
                             <div class="text-center">
-                                <h2>Service</h2>
+                                <h2>Services</h2>
                                 <hr class="botm-line" />
                             </div>
                             <h4>Psychotherapy</h4>
@@ -23,7 +23,7 @@
                                         <a data-toggle="modal" data-target="#Neurotherapy">Neurotherapy</a>. With sensitivity and compassion, we provide a safe, supportive
                                         and non-judgmental environment. Are you ready to take the next step to a better life?
                                         We look forward to working with you. Please call or
-                                        <a href="mailto:info@mindfulhealthva.com">E-mail
+                                        <a href="mailto:info@healthyminds-therapy.com">E-mail
                                         </a> for an appointment. Evening and weekend appointments are available for your
                                         convenience.
                                     </p>
@@ -127,7 +127,7 @@
                                                         </li>
                                                     </ul>
                                                     <p>Please call or
-                                                        <a href="mailto:info@mindfulhealthva.com">E-mail
+                                                        <a href="mailto:info@healthyminds-therapy.com">E-mail
                                                         </a> for further information.</p>
                                                 </div>
                                                 <div class="modal-footer">

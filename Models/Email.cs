@@ -11,6 +11,6 @@ namespace HMTCoreVue.Models
         public string PhoneNumber { get; set; }
         public string EmailAddress { get; set; }
         public string Message { get; set; }
-        public DateTime DesiredDate {get;set;}
+        public DateTime? DesiredDate { get; set; }
     }
 }

@@ -1,4 +1,4 @@
-<template>
+﻿<template>
     <section id="policy" class="parallax">
         <div class="parallax-overlay">
             <div class="container">
@@ -228,7 +228,7 @@
                                                 National Suicide Prevention Lifeline 1-800-273-8255. For less urgent matters
                                                 or for scheduling issues, please leave a message on our voicemail or by
                                                 <a
-                                                    href="mailto:info@mindfulhealthva.com">
+                                                    href="mailto:info@healthyminds-therapy.com">
                                                     E-mail
                                                     </a>. Email is not a secure, confidential form of communication and should
                                                     not be used for discussion of clinical issues or for urgent communications.

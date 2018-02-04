@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using SendGrid.Helpers.Mail;
 using SendGrid;
@@ -23,7 +23,7 @@ namespace HMTCoreVue.Controllers
             var Requester = $"<strong>Request from</strong>:<span> { request.Name }</span><br />";
             var PhoneNumber = $"<strong>Contact Phone Number</strong>:<span> { request.PhoneNumber }</span><br />";
             var ContactEmail = $"<strong>Contact Email</strong>:<span> { request.EmailAddress }</span><br />";
-            var DesiredDate = $"<strong>Desired Date</strong>:<span> { request.DesiredDate }</span><br />";
+            var DesiredDate = $"<strong>Desired Date</strong>:<span> { request.DesiredDate.Value }</span><br />";
             var Message = $"<strong>Message</strong>:<span> { request.Message }</span>";
 
             var apiKey = System.Environment.GetEnvironmentVariable("SendGrid");
@@ -34,7 +34,7 @@ namespace HMTCoreVue.Controllers
                 Subject = "A New Appointment Inquiry from HealthyMindsTherapy.com.",
                 HtmlContent = $"{ Requester + PhoneNumber + ContactEmail + DesiredDate + Message  }"
             };
-            msg.AddTo(new EmailAddress("info@mindfulhealthva.com", "info@mindfulhealthva.com"));
+            msg.AddTo(new EmailAddress("info@healthyminds-therapy.com", "info@healthyminds-therapy.com"));
             var response = await client.SendEmailAsync(msg);
 
             return Ok("Message Sent");
