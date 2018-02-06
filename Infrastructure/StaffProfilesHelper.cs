@@ -47,7 +47,7 @@ namespace HMTCoreVue.Infrastructure
 
             profiles.Add(new StaffProfile()
             {
-                Name = "Yelana Boex",
+                Name = "Yelena Kilgore",
                 Location = Location.Alexandria,
                 Title = "Licensed Clinical Social Worker",
                 ImagePath = "yelena.jpg",
@@ -63,7 +63,7 @@ namespace HMTCoreVue.Infrastructure
                 $"the key to effective treatment begins with the quality of the relationship and connection between a therapist and client, " +
                 $"as well as an inherent interest in understanding what drives our thoughts, emotions, and behaviors. Ms. Kilgore uses her " +
                 $"natural ability to empathize and offer unconditional positive regard with an interactive and warm therapeutic style to help" +
-                $"guide her clients towards building self-awareness, and ultimately, in realizing their own worth and abilities. She communicates" +
+                $"guide her clients towards building self-awareness, and ultimately, in realizing their own worth and abilities. She communicates " +
                 $"in an authentic and lively manner, and utilizes humor when appropriate. She works alongside her clients to help them navigate " +
                 $"life stressors and challenges while making you feel comfortable and understood. She challenges her clients appropriately by offering" +
                 $"a different perspective and new way of thinking. She is a guiding light.</p>" +
