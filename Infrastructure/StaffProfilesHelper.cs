@@ -17,32 +17,10 @@ namespace HMTCoreVue.Infrastructure
                 Location = Location.Alexandria,
                 SpecialJobDesignation = "Owner and Clinical Director",
                 ImagePath = "aly.jpg",
-                Bio = $"<p>Alyicia Burant is a Licensed " +
-                      $"Professional Counselor with over seven years experience providing direct" +
-                      $"patient care to adults, adolescents, children, and families. She is " +
-                      $"also your average every day girl who has dealt with her own array of challenges " +
-                      $"by changing her thoughts and developing positive, healthy coping skills.</p><p>" +
-                      $"Alycia created a positive healthy mind, body and soul. She provides a safe, supportive, " +
-                      $"encouraging environment by creating a solid foundation for personal healing " +
-                      $"and development. Alycia works to create a relationship with you to promote " +
-                      $"success and empowerment. She recognizes you are the expert on your life " +
-                      $"and take a collaborative approach to achieve identified goals. Alycia uses " +
-                      $"a strength-based approach, building on your positive qualities. She recognizes " +
-                      $"everyone measures success differently and tailor treatment to best meet " +
-                      $"your needs. Are you struggling with every day anxieties that are starting " +
-                      $"to impact your relationships, job, or home life? Do you feel so depressed " +
-                      $"you have lost motivation to do things you used to enjoy? Do you have " +
-                      $"a teenager who seems distant but has hinted they would like someone to " +
-                      $"talk to? If you can relate to any of this, then you’ve come to the right " +
-                      $" place. Healthy Minds Therapy will help you become the person you want to be! " +
-                      $"</p><p>Alycia received her Bachelor of Science in Psychology from Virginia Tech in 2006. She earned my Master of Arts in Community Counseling " +
-                      $" from American Psychological Association (APA) accredited Argosy " +
-                      $" University School of Professional Psychology Northern Virginia" +
-                      $" in 2009. She completed my Post Master’s Certification in School " +
-                      $" Counseling at University of South Florida in 2014. During her" +
-                      $" journey as a therapist thus far, she has had the pleasure of working" +
-                      $" with clients in a variety of settings to include in-home, psychiatric" +
-                      $" hospitals, mental health clinics, and outpatient/private practice settings.</p>"
+                Bio = $"<p>Alycia Burant is a Licensed Professional Counselor with over nine years experience providing direct patient care to adults, adolescents, children, and families. She is also your average every-day girl who has dealt with her own array of challenges. By changing her thoughts and developing positive, healthy coping skills she has created a positive healthy mind, body and soul.</p>" +
+                $"<p>Alycia was born with a strong empathetic nature that compliments her powerful intuition well. She provides a safe, supportive, encouraging environment by creating a solid foundation for personal healing and development. She works to create a relationship with you to promote success and empowerment. She recognizes you are the expert on your life and takes a collaborative approach to achieve identified goals. Alycia uses a strength-based approach, building on your positive qualities. She recognizes everyone measures success differently and tailors treatment to best meet your needs.</p>" +
+                $"<p>Are you struggling with every day anxieties that are starting to impact your relationships, job, or home life? Do you feel so depressed you have lost motivation to do things you used to enjoy? If you can relate to any of this, then Alycia is the right person for you. She will help you become the person you want to be.</p>" +
+                $"<p>Alycia received her Bachelor of Science in Psychology from Virginia Tech in 2006. She earned her Master of Arts in Community Counseling from the American Psychological Association (APA) accredited Argosy University School of Professional Psychology Northern Virginia in 2009. She completed her Post Master’s Certification in School Counseling at University of South Florida in 2014. During her journey as a therapist thus far, she has had the pleasure of working with clients in a variety of settings to include in-home, psychiatric hospitals, mental health clinics, and outpatient/private practice settings.</p>"
             });
 
             profiles.Add(new StaffProfile()
