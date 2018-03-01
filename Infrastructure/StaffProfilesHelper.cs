@@ -50,17 +50,6 @@ namespace HMTCoreVue.Infrastructure
                 $"Counseling Center. Yelena was born in Uzbekistan and is fluent in Russian.</p>"
             });
 
-            profiles.Add(new StaffProfile()
-            {
-                Name = "Dr. Sarah Lyall",
-                Location = Location.Fredericksburg,
-                Title = "Clinical Psychologist",
-                ImagePath = "sarah_lyall.jpg",
-                Bio = $"<p>Dr. Lyall is a licensed clinical psychologist in both Virginia and Alabama. She practices from a strengths based perspective, aiding her clients in identifying and utilizing the strengths that are already present within them to meet their goals and enhance their lives. Dr. Lyall provides a welcoming safe environment for all clients.</p>" +
-                $"<p>Dr. Lyall has experience working in a variety of mental health settings, including hospitals, integrated behavioral health/medical clinics, and behavioral health outpatient clinics. She also has experience utilizing Cognitive Behavioral Therapy (CBT), Solution Focused Brief Therapy (SFBT), Acceptance and Commitment Therapy (ACT), and various mindfulness techniques to help patients meet their goals.</p>" +
-                $"<p>A Virginia native, Dr. Lyall completed her undergraduate work in psychology at The University of Virginia’s College at Wise. She completed a Master’s Degree in Counseling and Human Development and later a Doctoral Degree in Counseling Psychology at Radford University.</p>" +
-                $"<p>Dr. Lyall has experience in working with clients who suffer from a broad range of diagnoses, including but not limited to, mood disorders, trauma related disorders including PTSD, and adjustment disorders. Dr. Lyall has a special interest in working with clients who are suffering from chronic pain and has specialized training in helping patients learn coping strategies to help them reduce their use of potentially addictive pain medications.</p>"
-            });
 
             profiles.Add(new StaffProfile()
             {
