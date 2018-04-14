@@ -120,18 +120,6 @@ namespace HMTCoreVue.Infrastructure
 
             });
 
-            profiles.Add(new StaffProfile()
-            {
-                Name = "Kimberly Milam",
-                Location = Location.Woodbridge,
-                Title = "Licensed Professional Counselor",
-                ImagePath = "Kimberly_Milam.jpg",
-                Bio = $"<p>Kim Milam is a Licensed Professional Counselor. Kim utilizes evidence based interventions to help her clients reach their true potential and therapeutic goals. Kim is skilled in using cognitive-behavioral therapy, solution-focused therapy, motivational interviewing, EMDR, neurotherapy, articular acupuncture, emotional freedom techniques, trauma informed care, mindfulness practices, and stress reduction and relaxation strategies. When appropriate she integrates therapeutic interventions with neurotherapy.</p>" +
-                $"<p>Neurotherapy can be used to help clients with ADHD, high-functioning autism, insomnia, anxiety, depression, bipolar disorder, stress reduction, brain injury, peak performance, and other conditions.</p>" +
-                $"<p>Kim received her graduate degree in Counseling from Argosy University in 2012. Kim served 21 years in the United States Army, where she deployed to Afghanistan and worked with victims of sexual assault. She has worked with military members and their families, children, adolescents, couples, and families over the last six years in both intensive in home and outpatient settings</p>"
-            });
-
-
             return profiles;
         }
     }
