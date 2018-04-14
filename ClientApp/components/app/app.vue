@@ -40,22 +40,8 @@
                         <li>
                             <a id="contactLink" class="page-scroll" href="#location">Location</a>
                         </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Client Portal
-                                <span class="caret"></span>
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li>
-                                     <a href="https://www.psychselect.com/cgi-bin/therapyappointment/login.cfm?practitioner=21475" target="_blank">Alexandria, VA</a>
-                                </li>
-                                <li role="separator" class="divider"></li>
-                                <li>
-                                     <a href="https://www.therapyportal.com/p/healthyminds/" target="_blank">Fredericksburg | Woodbridge, VA</a>
-                                </li>
-                            </ul>
-                        </li>
                         <li>
-                           
+                            <a href="https://www.therapyportal.com/p/healthyminds/" target="_blank">Client Portal</a>
                         </li>
                     </ul>
                 </div>
