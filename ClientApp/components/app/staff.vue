@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-sm-3" v-for="(profile, index) in filteredProfiles" :key="profile.name">
                         <div class="card hovercard">
-                            <div class="cardheader">
+                            <div v-bind:class="[{ cardheader : true}, headerColor(index)]">
                             </div>
                             <div class="avatar">
                                 <img alt="" :src="profile.imagePath">
@@ -88,5 +88,15 @@
                     this.profiles = response.data;
                 });
         },
+        methods:{
+            headerColor(index){
+                if(index >= 4 && index < 8){
+                    return "cardheader-blue";
+                }
+                else if(index >= 8 && index <= 12){
+                    return "cardheader-red";
+                }
+            }
+        }
     }
 </script>

@@ -1,7 +1,6 @@
 <template>
     <section id="location" class="parallax">
         <div class="parallax-overlay">
-            <gallery :images="filteredImages" :index="index" v-on:close="index = null"></gallery>
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">

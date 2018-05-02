@@ -120,6 +120,28 @@ namespace HMTCoreVue.Infrastructure
 
             });
 
+            profiles.Add(new StaffProfile()
+            {
+                Name = "Karen Sexton",
+                Location = Location.Alexandria,
+                Title = "Director of Operations",
+                ImagePath = "karen_sexton.jpg",
+                Bio = $"<p>Karen Sexton, the Director of Operations, is a seasoned office manager with over 20 years of experience providing customer service to others. Her experience includes banking, facilitating title loans, and office management. She has brought positive change to Healthy Minds Therapy by advocating for patients and staff while ensuring financial success.</p>" +
+                      $"<p>She is humble, efficient and does everything with a smile! Karen feels connected to her community as she has been a resident of Spotsylvania County for almost 30 years.</p>" +
+                      $"<p>In addition to her dedication to her work with Healthy Minds, Karen is heavily involved with her church and family. Being a grandmother, mother and wife to her high school sweetheart is her true passion.</p>"
+            });
+
+            profiles.Add(new StaffProfile()
+            {
+                Name = "Becky Scheider",
+                Location = Location.Alexandria,
+                Title = "Director of First Impressions",
+                ImagePath = "becky_scheider.jpg",
+                Bio = $"<p>Becky Schneider, the Director of First Impressions, excels with this role beautifully. As the Director of First Impressions, she is responsible for making your experience with Healthy Minds Therapy as pleasant as can be! She enjoys interacting with the patients and works to ensure every patient feels welcomed.</p>" +
+                    $"<p>Becky is energetic, efficient, creative, and memorable. She works to ensure your experience with Healthy Minds Therapy is meaningful as well! She is detail-oriented which helps to enhance the patient experience from your first phone call to your last session.</p>" +
+                    $"<p>Becky graduated from Longwood University in 2017 with a degree in Communication Sciences and Disorders with a Minor in Special Education and a concentration Neurology. Born and raised in Orange County, Becky is a proud Virginian.</p>"
+            });
+
             return profiles;
         }
     }
