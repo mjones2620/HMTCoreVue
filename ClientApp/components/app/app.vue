@@ -20,7 +20,7 @@
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a id="staffLink" class="page-scroll" href="#ourStaff">Our Staff</a>
+                            <a id="staffLink" class="page-scroll" href="#ourStaff">Meet Us</a>
                         </li>
                         <li>
                             <a id="serviceLink" class="page-scroll" href="#services">Service</a>

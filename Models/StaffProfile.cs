@@ -10,5 +10,6 @@ namespace HMTCoreVue.Models
         public string Bio {get;set;}
         public string SpecialJobDesignation {get;set;}
         public string ImagePath {get;set;}
+        public int OrderIndex {get;set;}
     }
 }

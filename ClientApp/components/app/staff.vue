@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <div class="section-content text-center">
-                            <h2>Meet our Staff</h2>
+                            <h2>Meet Us</h2>
                             <hr class="botm-line" />
                         </div>
                     </div>
@@ -13,14 +13,14 @@
                 <div class="row">
                     <div class="col-sm-3" v-for="(profile, index) in filteredProfiles" :key="profile.name">
                         <div class="card hovercard">
-                            <div v-bind:class="[{ cardheader : true}, headerColor(index)]">
+                            <div v-bind:class="[{ cardheader : true}]">
                             </div>
                             <div class="avatar">
                                 <img alt="" :src="profile.imagePath">
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <a target="_blank" href="">{{profile.name}}</a>
+                                    <span>{{profile.name}}</span>
                                 </div>
                                 <div class="desc" v-if="profile.specialJobDesignation">{{profile.specialJobDesignation}}</div>
                                 <div class="desc">{{profile.title}}</div>
@@ -78,7 +78,7 @@
                     this.profiles.forEach(profile => {
                         profile.imagePath = `images/${profile.imagePath}`;
                     });
-                    return _.sortBy(this.profiles, ['specialJobDesignation','title']);
+                    return _.sortBy(this.profiles, ['orderIndex']);
                 }
             }
         },
@@ -87,16 +87,6 @@
                 .then(response => {
                     this.profiles = response.data;
                 });
-        },
-        methods:{
-            headerColor(index){
-                if(index >= 4 && index < 8){
-                    return "cardheader-blue";
-                }
-                else if(index >= 8 && index <= 12){
-                    return "cardheader-red";
-                }
-            }
         }
     }
 </script>
